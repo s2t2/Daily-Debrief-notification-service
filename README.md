@@ -44,7 +44,7 @@
    ```
 3. Install all required packages
    ```
-   pip install requirements.txt
+   pip install -r requirements.txt
    ```
 
 4. create a .env file in your root directory for your environment variables and model it as thus with your own API keys:
